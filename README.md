@@ -22,7 +22,9 @@ http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
 Week 5 programming assignment: Kd-Trees
 http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
 
+
 Part II
+
 Week 1 programming assignment: Wordnet
 http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html
 
